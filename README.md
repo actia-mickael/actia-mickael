@@ -1,6 +1,6 @@
 # Bonjour, je suis Mickael Moisan 👋
 
-## AI Architect / Data Scientist | Partenaire des PME bretonnes
+## AI Architect / Data Scientist | Partenaire des PME bretonnes et un peu plus
 
 🎯 **Consultant indépendant** — Ex-Directeur Technique de l'industrie manufacturière, 
 spécialisé en Intelligence Artificielle et Data Science adaptés aux PME et TPE.
